@@ -1,0 +1,23 @@
+#database settings
+TARGET_HOST=localhost
+TARGET_DB=
+TARGET_PORT=
+TARGET_USER=
+TARGET_PASSWORD=
+
+LOG_EMAIL=
+
+
+#        get Data-Snapshot from  https://github.com/idsdata/IATI-Data-Snapshot
+PATH_TO_DATA=--adjust path--/IATI-Data-Snapshot/
+#        get single source of truth from https://github.com/IATI/IATI-Standard-SSOT
+PATH_TO_SSOT=--adjust path--/IATI-Standard-SSOT/
+PATH_TO_LOG=
+
+#        get api key from https://opencorporates.com/
+API_OPENCORPORATES=
+#        get api key from https://openexchangerates.org/
+API_OPENEXCHANGERATE=
+
+
+
